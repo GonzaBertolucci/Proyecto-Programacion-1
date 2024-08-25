@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1584205420 source:f:\xcodeblocks\archivos\lab1tp\main.cpp
+	<iostream>
+
+1685994348 source:d:\escritorio\lab1tp-01\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	"menu.h"
+	"rlutil.h"
+
+1685994235 d:\escritorio\lab1tp-01\menu.h
+
+1685885242 d:\escritorio\lab1tp-01\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1685994499 source:d:\escritorio\lab1tp\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	"menu.h"
+	"rlutil.h"
+
+1685994235 d:\escritorio\lab1tp\menu.h
+
+1685885242 d:\escritorio\lab1tp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686176327 source:c:\users\gonzalo\desktop\laboratorio\lab1tp\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	"menu.h"
+	"rlutil.h"
+	"calculos.h"
+	"singleplayer.h"
+
+1685979834 c:\users\gonzalo\desktop\laboratorio\lab1tp\menu.h
+
+1685870842 c:\users\gonzalo\desktop\laboratorio\lab1tp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686176352 c:\users\gonzalo\desktop\laboratorio\lab1tp\calculos.h
+
+1686177056 c:\users\gonzalo\desktop\laboratorio\lab1tp\singleplayer.h
+
+1686956122 source:c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+	"utilidades.h"
+	"calculos.h"
+	"singleplayer.h"
+	"multiplayer.h"
+
+1685965434 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\menu.h
+
+1685856442 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686161952 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\calculos.h
+
+1686955232 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\singleplayer.h
+
+1686950028 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\utilidades.h
+
+1686956057 c:\users\gonzalo\downloads\version_0.6-20230615t193433z-001\version_0.6\multiplayer.h
+
+1687110018 source:f:\xcodeblocks\archivos\version_0.7\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"menu.h"
+	"calculos.h"
+	"utilidades.h"
+	"singleplayer.h"
+	"multiplayer.h"
+
+1687098405 f:\xcodeblocks\archivos\version_0.7\menu.h
+
+1685842042 f:\xcodeblocks\archivos\version_0.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687111323 f:\xcodeblocks\archivos\version_0.7\utilidades.h
+
+1687098780 f:\xcodeblocks\archivos\version_0.7\calculos.h
+
+1687111483 f:\xcodeblocks\archivos\version_0.7\singleplayer.h
+
+1687111476 f:\xcodeblocks\archivos\version_0.7\multiplayer.h
+
+1687137445 source:f:\xcodeblocks\archivos\version_0.8\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"menu.h"
+	"calculos.h"
+	"utilidades.h"
+	"singleplayer.h"
+	"multiplayer.h"
+
+1685842042 f:\xcodeblocks\archivos\version_0.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687136414 f:\xcodeblocks\archivos\version_0.8\menu.h
+
+1687136079 f:\xcodeblocks\archivos\version_0.8\calculos.h
+
+1687134760 f:\xcodeblocks\archivos\version_0.8\utilidades.h
+
+1687137445 f:\xcodeblocks\archivos\version_0.8\singleplayer.h
+
+1687138102 f:\xcodeblocks\archivos\version_0.8\multiplayer.h
+
+1687376053 source:d:\escritorio\version_0.9\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"visual.h"
+	"calculos.h"
+	"utilidades.h"
+	"singleplayer.h"
+	"multiplayer.h"
+
+1685827642 d:\escritorio\version_0.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687373618 d:\escritorio\version_0.9\visual.h
+
+1687283602 d:\escritorio\version_0.9\menu.h
+
+1687124042 d:\escritorio\version_0.9\calculos.h
+
+1687316645 d:\escritorio\version_0.9\utilidades.h
+
+1687376037 d:\escritorio\version_0.9\singleplayer.h
+
+1687376036 d:\escritorio\version_0.9\multiplayer.h
+
+1687484510 source:f:\xcodeblocks\archivos\version_1\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"visual.h"
+	"calculos.h"
+	"utilidades.h"
+	"singleplayer.h"
+	"multiplayer.h"
+
+1685813242 f:\xcodeblocks\archivos\version_1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687485235 f:\xcodeblocks\archivos\version_1\visual.h
+
+1687484510 f:\xcodeblocks\archivos\version_1\calculos.h
+
+1687484790 f:\xcodeblocks\archivos\version_1\utilidades.h
+
+1687484510 f:\xcodeblocks\archivos\version_1\singleplayer.h
+
+1687484629 f:\xcodeblocks\archivos\version_1\multiplayer.h
+
